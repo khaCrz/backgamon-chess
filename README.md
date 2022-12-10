@@ -1,5 +1,8 @@
 # backgamon-chess
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Board](https://github.com/khaCrz/backgamon-chess/blob/master/img/Board.png)
+![Board](https://github.com/khaCrz/backgamon-chess/blob/master/img/Board.png)
+![Board](https://github.com/khaCrz/backgamon-chess/blob/master/img/Board.png)
+
+
